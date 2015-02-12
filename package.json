@@ -1,0 +1,15 @@
+{
+  "name": "hello-npm-gregaubs",
+  "version": "1.0.1",
+  "description": "demo of npm init and modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Aubert",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3"
+  },
+  "devDependencies": {}
+}
